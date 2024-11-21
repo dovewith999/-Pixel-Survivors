@@ -1,0 +1,155 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Client\Bin\Shader_Rect.cso
+  stdafx.cpp
+  AngryBird.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  AttackCollision.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  BackGround.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Bible.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Bone_hhlee.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Camera_Free.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Camera_Player.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Cat.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Coil.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Cube.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Curvy.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Effect.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Effect0.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  FireBall.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Garlic.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Item.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Item_EXP.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Item_HP.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Item_Object.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Item_Timer.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Item_TimerEffect.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Item_Treasure.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Item_Vacuum.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  LandObject.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Level_GamePlay.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Level_Loading.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Level_Logo.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Lightning.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Santa.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  TexMonster.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Loader.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MainApp.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MasterCube.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Meteo.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Monster.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MonsterLayer.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  NyanCat.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Plasma.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Player.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Sky.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Slime.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Spawner.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Star.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Terrain.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Test.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_BackGround.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_Cursor.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_Enemy_HPBar.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_Enemy_HPElement.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_ExperienceBar.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_ExperiencePoint.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_HPBar.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_HPElement.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_IconBox.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_Inventory.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_ItemBox.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_LevelUp.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_Loading.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_Logo.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_PlayerStats.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  UI_PlayTimer.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_Scope.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_SelectItem.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_Sniper.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_Start.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_WeaponIcon.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_WeaponIcon_Bible.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_WeaponIcon_Garlic.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_WeaponIcon_LightningRing.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  UI_WeaponIcon_Plasma.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Wall.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Client.cpp
+C:\Users\dovew\Downloads\Jusin_SR-Master\Jusin_SR-Master\Reference\Headers\Engine_Defines.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  코드를 생성하고 있습니다...

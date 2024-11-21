@@ -1,0 +1,83 @@
+#pragma once
+
+#include <Windows.h>
+
+namespace Engine
+{
+	const TCHAR KEY_COMPONENT_BONE[50] = L"Prototype_Component_Bone";
+	const TCHAR KEY_COMPONENT_COLOR_CUBE[50] = L"Prototype_Component_ColorCube";
+	const TCHAR KEY_COMPONENT_ANY_BODY_TRANSFORM[50] = L"Prototype_Component_Animation_Body_Transform";
+	const TCHAR KEY_COMPONENT_MASTER_CUBE[50] = L"Prototype_Component_Animation_Body";
+	const TCHAR KEY_COMPONENT_PARSER[50] = L"Prototype_Component_Parser";
+	//hhlee
+	const TCHAR KEY_BODY_HEAD_FILE[50] = L"../../Data/head.dat";
+	const TCHAR KEY_BODY_BODY_FILE[50] = L"../../Data/body.dat";
+	const TCHAR KEY_BODY_LEFTARM_FILE[50] = L"../../Data/leftarm.dat";
+	const TCHAR KEY_BODY_RIGHTARM_FILE[50] = L"../../Data/rightarm.dat";
+	const TCHAR KEY_BODY_LEFTLEG_FILE[50] = L"../../Data/leftleg.dat";
+	const TCHAR KEY_BODY_RIGHTLEG_FILE[50] = L"../../Data/rightleg.dat";
+	const TCHAR KEY_BODY_LEFTELBOW_FILE[50] = L"../../Data/leftelbow.dat";
+	const TCHAR KEY_BODY_RIGHTELBOW_FILE[50] = L"../../Data/rightelbow.dat";
+	const TCHAR KEY_BODY_LEFTANKLE_FILE[50] = L"../../Data/leftankle.dat";
+	const TCHAR KEY_BODY_RIGHTANKLE_FILE[50] = L"../../Data/rightankle.dat";
+
+	//Bone Key String
+	const TCHAR KEY_BONE_ROOT[50] = L"Bone_Root";
+	const TCHAR KEY_BONE_PELVIS[50] = L"Bone_Pelvis";
+	const TCHAR KEY_BONE_SPINE[50] = L"Bone_Spine";
+	const TCHAR KEY_BONE_NECK[50] = L"Bone_Neck";
+	const TCHAR KEY_BONE_LEFTLEG[50] = L"Bone_LeftLeg";
+	const TCHAR KEY_BONE_RIGHTLEG[50] = L"Bone_RightLeg";
+	const TCHAR KEY_BONE_LEFTARM[50] = L"Bone_LeftArm";
+	const TCHAR KEY_BONE_RIGHTARM[50] = L"Bone_RightArm";
+	const TCHAR KEY_BONE_LEFTELBOW[50] = L"Bone_LeftElbow";
+	const TCHAR KEY_BONE_RIGHTELBOW[50] = L"Bone_RightElbow";
+	const TCHAR KEY_BONE_LEFTANKLE[50] = L"Bone_LeftAnkle";
+	const TCHAR KEY_BONE_RIGHTANKLE[50] = L"Bone_RightAnkle";
+
+	const TCHAR KEY_BODY_HEAD[50] = L"Body_Head";
+	const TCHAR KEY_BODY_BODY[50] = L"Body_Body";
+	const TCHAR KEY_BODY_LEFTARM[50] = L"Body_LeftArm";
+	const TCHAR KEY_BODY_RIGHTARM[50] = L"Body_RightArm";
+	const TCHAR KEY_BODY_LEFTLEG[50] = L"Body_LeftLeg";
+	const TCHAR KEY_BODY_RIGHTLEG[50] = L"Body_RightLeg";
+	const TCHAR KEY_BODY_LEFTELBOW[50] = L"Body_LeftElbow";
+	const TCHAR KEY_BODY_RIGHTELBOW[50] = L"Body_RightElbow";
+	const TCHAR KEY_BODY_LEFTANKLE[50] = L"Body_LeftAnkle";
+	const TCHAR KEY_BODY_RIGHTANKLE[50] = L"Body_RightAnkle";
+
+	enum TEST_STATE { TEST_STATE_IDLE, TEST_STATE_ATTACK, TEST_STATE_STUN, TEST_STATE_DIE, TEST_STATE_END };
+
+	enum ANIMATION_STATE {
+		ROOT, PELVIS, SPINE, NECK, LEFTLEG, RIGHTLEG, LEFTARM, RIGHTARM,
+		LEFTELBOW, RIGHTELBOW, LEFTANKLE, RIGHTANKLE, ANIMATION_STATE_END
+	};
+	enum INVERSE_ANIMATION_STATE {
+		INV_RIGHTANKLE, INV_LEFTANKLE, INV_RIGHTELBOW, INV_LEFTELBOW, INV_RIGHTARM, INV_LEFTARM, INV_RIGHTLEG, INV_LEFTLEG,
+		INV_NECK, INV_SPINE, INV_PELVIS, INV_ROOT
+	};
+	enum ANI_CUBE {
+		CUBE_HEAD, CUBE_BODY, CUBE_LEFTLEG, CUBE_RIGHTLEG, CUBE_LEFTARM, CUBE_RIGHTARM, CUBE_LEFTELBOW,
+		CUBE_RIGHTELBOW, CUBE_LEFTANKLE, CUBE_RIGHTANKLE, ANI_CUBE_END
+	};
+
+	enum ANIMATION_RECT {
+		ANI_RECT_HEAD,
+		ANI_RECT_BODY,
+		ANI_RECT_LEFT_LEG,
+		ANI_RECT_RIGHT_LEG,
+		ANI_RECT_LEFT_ARM,
+		ANI_RECT_RIGHT_ARM,
+		ANI_RECT_LEFT_ELBOW,
+		ANI_RECT_RIGHT_ELBOW,
+		ANI_RECT_LEFT_ANKLE,
+		ANI_RECT_RIGHT_ANKLE,
+		ANI_RECT_END
+	};
+	enum ANIMATION_PLAY { ANI_PLAY, ANI_SET, ANI_END };
+	enum INVERSE_ANIMATION_PLAY { INV_ANI_END, INV_ANI_SET, INV_ANI_PLAY };
+
+	enum DIR_STATE { XAXIS, YAXIS, ZASIX, PLUS, MINUS, DIR_STATE_END };
+	enum INVERSE_DIR_STATE { INV_MINUS, INV_PLUS, INV_ZAXIS, INV_YAXIS, INV_XAXIS };
+	enum AXIS { AXISX, AXISY, AXISZ };
+}
